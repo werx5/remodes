@@ -21,6 +21,6 @@ sudo ufw allow 3389
 
 sudo systemctl restart xrdp
 
-sudo apt install task-xfce-desktop
+sudo apt -y install task-xfce-desktop
 
 echo "bitti"
