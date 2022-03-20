@@ -23,4 +23,4 @@ sudo systemctl restart xrdp
 
 sudo apt -y install task-lxqt-desktop
 
-echo "bitti"
+    printf "\n${slm}-----> Kurulum Bitti....${normal}\n"
