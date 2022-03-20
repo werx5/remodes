@@ -21,6 +21,6 @@ sudo ufw allow 3389
 
 sudo systemctl restart xrdp
 
-sudo apt -y install task-cinnamon-desktop
+sudo apt-get -y install task-gnome-desktop
 
     printf "\n${slm}-----> Kurulum Bitti....${normal}\n"
