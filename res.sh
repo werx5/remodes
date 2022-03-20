@@ -21,6 +21,6 @@ sudo ufw allow 3389
 
 sudo systemctl restart xrdp
 
-sudo apt -y install task-lxqt-desktop
+sudo apt -y install task-lxde-desktop
 
     printf "\n${slm}-----> Kurulum Bitti....${normal}\n"
